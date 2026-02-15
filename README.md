@@ -26,12 +26,12 @@ The analysis is performed on a relational database consisting of 11 tables inclu
 * Identifying the top 3 values of total invoices.
 * Best city for a promotional Music Festival (Highest revenue).
 * Identifying the "Best Customer" (The one who spent the most money).
-
+---
 ### 🟡 Level 2: Moderate (Joins & Logic)
 * Returning the Email, First Name, and Last Name of all **Rock Music** listeners.
 * Identifying the top 10 artists who have written the most rock music tracks.
 * Finding tracks that have a length longer than the average song duration.
-
+---
 ### 🔴 Level 3: Advance (CTE & Window Functions)
 * **Customer Spend on Artists:** Calculating how much each customer spent on specific artists.
 * **Popular Genres by Country:** Determining the most popular music genre for each country based on the number of purchases.
